@@ -70,17 +70,6 @@ Please check the individual repositories for more specific contribution guidelin
             </td>
 		</tr>
 	<tbody>
-	<tbody>
-		<tr>
-            <td align="center">
-                <a href="https://github.com/KshitijKadam">
-                    <img src="https://avatars.githubusercontent.com/u/33069063?v=4" width="100;" alt="KshitijKadam"/>
-                    <br />
-                    <sub><b>Kshitij Kadam</b></sub>
-                </a>
-            </td>
-		</tr>
-	<tbody>
 </table>
 <!-- readme: contributors -end -->
 
