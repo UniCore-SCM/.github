@@ -55,7 +55,7 @@ While the project is proprietary, we welcome community involvement through:
 
 Please check the individual repositories for more specific contribution guidelines.
 
-## ✨ Out Team
+## ✨ Our Team
 
 <!-- readme: contributors -start -->
 <table>
@@ -66,6 +66,17 @@ Please check the individual repositories for more specific contribution guidelin
                     <img src="https://avatars.githubusercontent.com/u/68191388?v=4" width="100;" alt="psavarmattas"/>
                     <br />
                     <sub><b>Puranjay Savar Mattas</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/KshitijKadam">
+                    <img src="https://avatars.githubusercontent.com/u/33069063?v=4" width="100;" alt="KshitijKadam"/>
+                    <br />
+                    <sub><b>Kshitij Kadam</b></sub>
                 </a>
             </td>
 		</tr>
