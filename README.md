@@ -7,10 +7,20 @@
 **Empowering businesses with AI-driven Supply Chain Management.**
 
 <p align="center">
+  <b>Our Technology Stack</b>
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,fastapi,python,sqlite,docker,jenkins&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,sqlite&theme=light&perline=5" alt="Backend Technologies"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=angular,ts,html,scss&theme=light&perline=5" alt="Frontend Technologies"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,github,nginx,jenkins,docker&theme=light&perline=5" alt="DevOps and Tooling"/>
   </a>
 </p>
+
+> 🚀 **What's Next?**
+> UniCore is currently in **Alpha** and under active development. Our roadmap includes integrating a full **AI/ML pipeline** for predictive analytics and adding secure payment processing with **Stripe**. This tech stack will grow as we build out these powerful new capabilities!
 
 This is the official GitHub organization for **UniCore**, a modern Supply Chain Management (SCM) platform designed to provide businesses with real-time visibility, predictive insights, and state-of-the-art security.
 
@@ -44,7 +54,7 @@ Our platform is divided into two main repositories:
 
 ## 📈 Project Status
 
-The UniCore platform is currently in **Beta**. We are under active development, and features or architecture may evolve. We welcome feedback and suggestions as we work towards a stable release.
+The UniCore platform is currently in **Alpha**. We are under active development, and features or architecture may evolve. We welcome feedback and suggestions as we work towards a stable release.
 
 ## 🤝 Get Involved
 
@@ -57,10 +67,8 @@ Please check the individual repositories for more specific contribution guidelin
 
 ## ✨ Our Team
 
-<!-- readme: contributors -start -->
 <table>
 	<tbody>
-		<tr>
             <td align="center">
                 <a href="https://github.com/psavarmattas">
                     <img src="https://avatars.githubusercontent.com/u/68191388?v=4" width="100;" alt="psavarmattas"/>
@@ -68,10 +76,16 @@ Please check the individual repositories for more specific contribution guidelin
                     <sub><b>Puranjay Savar Mattas</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/KshitijKadam">
+                    <img src="https://avatars.githubusercontent.com/u/33069063?v=4" width="100;" alt="KshitijKadam"/>
+                    <br />
+                    <sub><b>Kshitij Kadam</b></sub>
+                </a>
+            </td>
 		</tr>
 	<tbody>
 </table>
-<!-- readme: contributors -end -->
 
 ## 📄 License
 
