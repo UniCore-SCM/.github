@@ -95,4 +95,4 @@ This project is proprietary. For all licensing inquiries, please contact us.
 
 ## 📧 Contact
 
-**Puranjay Savar Mattas** - [support.unicore@psmattas.com](mailto:support.unicore@psmattas.com)
+**Puranjay Savar Mattas** - [support@unicorescm.com](mailto:support@unicorescm.com)
