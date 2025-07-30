@@ -51,6 +51,8 @@ Our platform is divided into two main repositories:
 | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | 🎨 **[unicore-frontend](https://github.com/UniCore-SCM/unicore-frontend)** | The responsive and intuitive user interface built with Angular. This is where users interact with their data, dashboards, and settings. | [![Build Status](https://jenkins.psmattas.com/buildStatus/icon?job=UniCore-Frontend%2Fmain)](https://jenkins.psmattas.com/job/UniCore-Frontend/job/main/) |
 | ⚙️ **[unicore-backend](https://github.com/UniCore-SCM/unicore-backend)**   | The powerful FastAPI-based API that handles authentication, data processing, business logic, and integration with our AI/ML models.      | [![Build Status](https://jenkins.psmattas.com/buildStatus/icon?job=UniCore-Backend%2Fmain)](https://jenkins.psmattas.com/job/UniCore-Backend/job/main/)       |
+| 🤖 **[unicore-model-service](https://github.com/UniCore-SCM/unicore-model-service)** | **Unicore-Model_Service** is a self-contained microservice that provides a complete, automated machine learning lifecycle for supply chain analytics. It allows companies (tenants) to upload their own unique data, define their prediction goals, and train bespoke AI models using a powerful visual canvas—no code required. | [![Build Status](https://jenkins.psmattas.com/buildStatus/icon?job=UniCore-Model_service%2Fmain)](https://jenkins.psmattas.com/job/UniCore-Model_service/job/main/) |
+| 🤖 **[unicore-vertex](https://github.com/UniCore-SCM/unicore-vertex)**   | **UniCore-Vertex** is the AI/ML model service backend for the **UniCore** platform. It functions as a dedicated, high-performance gRPC service responsible for all Retrieval-Augmented Generation (RAG) tasks, including document processing, multi-tenant data indexing, and intelligent querying against local Large Language Models (LLMs) via Ollama.      | [![Build Status](https://jenkins.psmattas.com/buildStatus/icon?job=UniCore-Vertex%2Fmain)](https://jenkins.psmattas.com/job/UniCore-Vertex/job/main/)       |
 
 ## 📈 Project Status
 
@@ -95,4 +97,4 @@ This project is proprietary. For all licensing inquiries, please contact us.
 
 ## 📧 Contact
 
-**Puranjay Savar Mattas** - [support@unicorescm.com](mailto:support@unicorescm.com)
+**Puranjay Savar Mattas** - [balms-freezer-5c@icloud.com](mailto:balms-freezer-5c@icloud.com)
