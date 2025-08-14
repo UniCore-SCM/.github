@@ -97,4 +97,4 @@ This project is proprietary. For all licensing inquiries, please contact us.
 
 ## 📧 Contact
 
-**Puranjay Savar Mattas** - [balms-freezer-5c@icloud.com](mailto:balms-freezer-5c@icloud.com)
+**Puranjay Savar Mattas** - [support@unicorescm.com](mailto:support@unicorescm.com)
